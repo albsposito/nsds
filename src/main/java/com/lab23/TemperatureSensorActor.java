@@ -5,7 +5,6 @@ import java.util.concurrent.ThreadLocalRandom;
 import akka.actor.AbstractActor;
 import akka.actor.ActorRef;
 import akka.actor.Props;
-import com.ex5.ClientActor;
 
 public class TemperatureSensorActor extends AbstractActor {
 
